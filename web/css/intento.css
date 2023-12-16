@@ -1,0 +1,139 @@
+.Cajita{
+
+    left: 10%;
+    border: #77b829 solid;
+    border-radius: 10%;
+    align-items: center;
+    width: 390px;
+    height: 100%;
+}
+
+.footerSena{
+    background: #01a6bd;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    height: auto;
+}
+
+.mensajea{
+    border: 1px solid #aaf;
+    padding: 10px;
+    display: none;
+    position: absolute;
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+.panelsito{
+    display: none;
+}
+
+
+img.pequena{
+    
+     width: 200px;
+   
+}
+img.icono{
+    width: 18px; height: 18px;
+}
+img.dos{
+    width: 100px; height: 100px;
+}
+
+img.dos2{
+    width: 180px; height: 100px;
+}
+
+.login{
+    width:80%;
+    height:50px;
+    border:none;
+    padding:5px 7px 5px 15px;
+    background:#fff;
+    color:#666;
+    border:2px solid #999999;
+    border-radius:4px;
+
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+}  
+.login:focus, .login:focus + .fa{
+    border-color:#8bcc28;
+    color:black;
+}
+
+.botoncitos{
+    background:#77b829;
+    display:inline-block;
+    width:80%;
+    font-size:16px;
+    height:50px;
+    color:#fff;
+    text-decoration:none;
+    border:none;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+}
+.botoncitos:focus, .botoncitos:hover {
+    background: #ACDE62;
+    border-color: #00cc00;
+}
+
+.botoncitos2{
+    background:#999999;
+    display:inline-block;
+    width:80%;
+    font-size:16px;
+    height:50px;
+    color:#fff;
+
+    text-decoration:none;
+    border:none;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+}
+.botoncitos2:hover{
+    background-color: #6e6e6e;
+    text-decoration:none;
+    color: white;
+
+}
+
+.lul{
+    width: 100%;
+    top: 0;
+}
+.int{
+    
+   min-width: 350px;
+    
+}
+.derecha{
+    float: right;
+    display: inline;
+    position: relative;
+    right: 10px;
+    
+}
+
+@media(max-width: 540px){
+   
+    .derecha{
+        visibility: hidden;
+    }
+    
+   
+    
+}

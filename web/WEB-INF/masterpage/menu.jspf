@@ -1,0 +1,75 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%-- menú contenido en todas las paginas de la carpeta aprendiz, exceptuando Costos, DFI, Embarque, PreciosProducto, 
+Proyeccion, ePrecios, Competencia --%>
+
+<li>
+    <a href="../principal.jsp">Inicio</a>
+</li>
+<li>
+    <a href="../inicio.jsp">Menú Proyecto</a>
+</li>
+<li>
+    <a href="Proyecto.jsp">Proyecto</a>
+</li>
+<li>
+    <a href="Mercado.jsp">Mercado</a>
+</li>
+<li>
+    <a href="eOrganizacional.jsp">Estrategia Organizacional</a>
+</li>
+<li>
+    <a href="ePromocion.jsp">Estrategia Promoción</a>
+</li>
+<li>
+    <a href="eDistribucion.jsp">Estrategia Distribución</a>
+</li>
+<li>
+    <a href="Producto.jsp">Productos</a>
+</li>
+<li>
+    <a href="Inversion.jsp">Inversión</a>
+</li>
+<li>
+    <a href="InversionDiferida.jsp">Inversión Intangible</a>
+</li>
+<li>
+    <a href="Nomina.jsp">Nómina</a>
+</li>
+<li>
+    <a href="GastosCostos.jsp">Gastos y Costos</a>
+</li>
+
+<li>
+    <a href="Financiacion.jsp">Financiación</a>
+</li>
+<li>
+    <a href="Insumo.jsp">Insumos</a>
+</li>
+<li>
+    <a href="Resultados.jsp">Resultados</a>
+</li>
+<li>
+    <a href="InfInsumo.jsp">Inf. Insumo</a>
+</li>
+<li>
+    <a href="PyG.jsp">P&G</a>
+</li>
+<li>
+    <a href="Balance.jsp">Balance</a>
+</li>
+<li>
+    <a href="FlujoCaja.jsp">Flujo de Caja</a>
+</li>
+ <li>
+    <a href="ResultadosFinales.jsp">Resultados Finales</a>
+</li> 
+<li>
+    <a href="Admin.jsp">Administrar Proyecto</a>
+</li>
+<li>
+    <a href="#" onclick="cerrarSesion()">Salir</a>
+</li>
+
+
+
+ 
